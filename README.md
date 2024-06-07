@@ -12,6 +12,10 @@
 leugo debemos copiar los archivos dentro de la carpeta .www y copiarlas dentro de hosting mas especificamente dentro de la carpeta .public</h3>
 <h1>5:Deploy</h1>
 <h3>Dentro de la carpeta hosting ejecutamos el siguiente comando <br> firebase deploy <br> y con esto tenemos nuestro deploy en web</h3>
+<h1>6:Demostracion</h1>
+![image](https://github.com/SandovalBrandon1027/App-para-subir-archivos-con-Storage/assets/117743657/eb336d40-ade3-4123-8dc7-99bed0276fba)
+![image](https://github.com/SandovalBrandon1027/App-para-subir-archivos-con-Storage/assets/117743657/b9390f29-265e-4d46-bb95-b9899d7331be)
+
 
 <h2>Deploy web: https://archivos-firebase.web.app/home </h2>
 <h2>Deploy movil: </h2>
